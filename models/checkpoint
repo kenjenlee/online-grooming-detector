@@ -1,0 +1,6 @@
+model_checkpoint_path: "GAN_gengvr_0.72loss_7400steps_2019_03_11_22_59_59.ckpt"
+all_model_checkpoint_paths: "GAN_gengvr_0.72loss_7000steps_2019_03_11_22_53_12.ckpt"
+all_model_checkpoint_paths: "GAN_gengvr_0.72loss_7100steps_2019_03_11_22_54_52.ckpt"
+all_model_checkpoint_paths: "GAN_gengvr_0.72loss_7200steps_2019_03_11_22_56_33.ckpt"
+all_model_checkpoint_paths: "GAN_gengvr_0.72loss_7300steps_2019_03_11_22_58_16.ckpt"
+all_model_checkpoint_paths: "GAN_gengvr_0.72loss_7400steps_2019_03_11_22_59_59.ckpt"
